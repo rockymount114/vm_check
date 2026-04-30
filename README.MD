@@ -1,10 +1,9 @@
 
 <p align="center">
-  <img src="https://img.shieldsShell-Script-89e051?logo=gnu-bash&logoColor=white
-  <img src="https://img.shields.io/badge/OS-Linux-blue?logoimg src="https://img.shields.io/github/license/rockymount114/vm_check?coloren
-  <img src="https://img.shields.io/github/repo-size/rockymount114/vm_check" alt="ields.io/github/last-commit/rockymount114/vm_chec
+  <img src="https://img.shields.io/badge/Shell-Script-89e051?logo=gnu-blor=white&nbsp;
+  https://img.shields.io/badge/OS-Linux-blue?logo=linux&nbsp;
+  <img src="https://img.shields.io/github/license/rockymount114/vm_check?color=brightgreen" alt="="https://img.shields.io/github/repo-size/rockymount114/vm_check" alt="Repo Size Badge"/>&nbspo/github/last-commit/rockymount114/vm_check" alt="Last Commit Badge"/>&nbsp;
 
-</p>
 
 # **VM Check Utilities**
 
