@@ -1,11 +1,8 @@
-# **VM Check Utilities**
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Shell-Script-89e051?logo=gnu-bash&logoColor=white" alt="Shell Scriptge/OS-Linux-blue?logo=linux
-  <img src="https://img.shields.io/github/license/rockymount114/vm_check?color=brightgreen" alt="License Badge">
-io/github/repo-size/rockymount114/vm_check" alt="s://img.shields.io/github/last-commit/rockymount114/vm_check" alt="Last Commit Badge">
+  <img src="https://img.shields.io/github/license/rockymount114/vm_check?color=brightgreen" alt="License Badge">io/github/repo-size/rockymount114/vm_check" alt="s://img.shields.io/github/last-commit/rockymount114/vm_check" alt="Last Commit Badge">
 
+# **VM Check Utilities**
 
 This repository contains two helpful Linux VM maintenance scripts designed to diagnose, monitor, and automatically fix common VM issues — especially for systems running **Docker**, **SQL Server**, **containers**, and **heavy logging workloads**.
 
